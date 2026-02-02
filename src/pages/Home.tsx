@@ -7,7 +7,7 @@ export function Home() {
       {/* Hero Section */}
       <section className="pt-32 pb-14 px-6 text-center">
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-semibold mb-6 text-gray-900 tracking-tight">
-          Коллекция дежды из Европы
+          Коллекция одежды из Европы
         </h1>
       </section>
 
